@@ -1,0 +1,28 @@
+{
+  "comicTrackerData": [
+    {
+      "comic": "bc",
+      "likes": 9
+    },
+    {
+      "comic": "abc",
+      "likes": 4
+    },
+    {
+      "comic": "dbc",
+      "likes": 2
+    },
+    {
+      "comic": "2bc",
+      "likes": 0
+    },
+    {
+      "comic": "5bc",
+      "likes": 1
+    },
+    {
+      "comic": "12bc",
+      "likes": 4
+    }
+  ]
+}
